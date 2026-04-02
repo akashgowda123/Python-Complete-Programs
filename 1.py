@@ -2535,7 +2535,7 @@ word="AkAs  hg"
 
 
 
-#list []- append, insert,remove,pop,reverse,sort (rpa ips)
-#string " " -lower,upper,strip,split,replace,find,join(lusfr)
+#list []- append, insert,remove,pop,reverse,sort (tick : rpa ips)
+#string " " -lower,upper,strip,split,replace,find,join(trick : lusfr)
 #dict {key:value} - get, keys, values, items, update
 # set {}-  add,remove,discard,union,intersection,difference,pop
